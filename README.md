@@ -25,7 +25,7 @@ python3.6 kbl_ANN.py
 tensorboard --logdir=./logs/kbl_ANN_L0.0001_W1000_T10001
 ```
 
-**Warning : the logdir name is depends on learning rate, weight size and traning times.**
+**Warning : the log folder name is depends on learning rate, weight size and traning times.**
 
 ## How did I make the data pre-processing?
 
