@@ -2,9 +2,13 @@
 KBL-ANN is a deep learning script that predicting the match result in Korean baseball league by Artificial neural network with Tensorflow.
 
 ## Requirement
+
 python3.6
+
 tensorflow
+
 pandas
+
 numpy
 
 ## How to use?
